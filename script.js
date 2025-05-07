@@ -12,5 +12,5 @@ hamburgerButton.addEventListener("click", ()=>{
 closeButton.addEventListener("click", ()=> {
     navigation.style.display = "none"
     closeButton.style.display = "none"
-    hamburgerButton.style.display = "block"
+    hamburgerButton.style.display = "hidden"
 })
